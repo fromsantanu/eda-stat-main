@@ -1,2 +1,1 @@
-# eda-stat-main
-Exploratory Data Analysis
+# Exploratory Data Analysis
