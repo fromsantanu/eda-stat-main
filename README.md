@@ -1,4 +1,4 @@
-# Exploratory Data Analysis
+# EDA Case Studies
 
 ## Table of content
 - [**Topic 0 - Process of Exploratory Data Analysis**](https://github.com/fromsantanu/eda-stat-main/blob/main/Pages/p00.md)
